@@ -1,6 +1,6 @@
-anoatual = int(input()) 
-idadeusuário = int(input())
 outroano = int(input())
+idadeusuário = int(input())
+anoatual = int(input()) 
 nome = input()
 virgula = ','
 idade = anoatual - (outroano - idadeusuário)
